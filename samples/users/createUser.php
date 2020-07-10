@@ -20,7 +20,8 @@ try {
         'name' => 'API Demo',
         'email' => 'demo@example.com',
         'phone' => '+1-954-704-6031',
-        'role'  => 'end-user',
+        'role'  => 'agent',
+        'organization_id'  => 1234567890,
         'details' => 'This user has been created with the API.'
         ]
     );
